@@ -189,27 +189,27 @@ a {
 
 .highlight-b {
     font-weight: 700;
-    color: #2980b9;
+    color: #82b1ff; /* Pastel blue */
 }
 
 .highlight-r {
     font-weight: 700;
-    color: #c0392b;
+    color: #ff8a80; /* Pastel red */
 }
 
 .highlight-y {
     font-weight: 700;
-    color: #f39c12;
+    color: #fdbc00; /* Pastel yellow */
 }
 
 .highlight-g {
     font-weight: 700;
-    color: #16a085;
+    color: #a2dfa4; /* Pastel green */
 }
 
 .highlight-p {
     font-weight: 700;
-    color: #8e44ad;
+    color: #ce93d8; /* Pastel purple */
 }
 
 .list {
